@@ -2,11 +2,11 @@
 ```js
 Class Alvaro
 {
-  function sobreMi()
+  function AboutMe()
   {
     Mi nombre es Alvaro nací el 28 de Marzo de 2001 🎂 en Barranquilla colombia.
-    Motivado por seguir aprendiendo de nuevas tecnologias y enfrentar retos que retornen un apendizaje para mi crecimiento
-    como desarrollador
+    Motivado por seguir aprendiendo de nuevas tecnologias y enfrentar retos que retornen un apendizaje
+    para mi crecimiento como desarrollador
   }
   
   function skills()
