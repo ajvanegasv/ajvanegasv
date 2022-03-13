@@ -25,8 +25,8 @@ Class Alvaro
 }
 ```
 ---
-### Lenguajes mas usados
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s4irento)](https://github.com/anuraghazra/github-readme-stats)
+### Lenguajes mas usados y github stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s4irento)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s4irento)](https://github.com/anuraghazra/github-readme-stats)
 
 ### StackOverflow en Español
 
