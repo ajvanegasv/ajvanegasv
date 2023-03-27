@@ -19,9 +19,9 @@
 ###
 
 <div align="center">
-<p><img align="left" width="395" src="https://github-readme-stats.vercel.app/api?username=ajvanegasv&show_icons=true&locale=en" alt="ajvanegasv" /></p>
+<p><img align="left" width="345" src="https://github-readme-stats.vercel.app/api?username=ajvanegasv&show_icons=true&locale=en" alt="ajvanegasv" /></p>
 
-<p><img align="left" width="415" src="https://github-readme-streak-stats.herokuapp.com/?user=ajvanegasv&" alt="ajvanegasv" /></p>
+<p><img align="left" width="365" src="https://github-readme-streak-stats.herokuapp.com/?user=ajvanegasv&" alt="ajvanegasv" /></p>
 </div>
 
 ###
