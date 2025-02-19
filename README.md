@@ -20,8 +20,4 @@
 
 <br clear="both">
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/ajvanegasv/ajvanegasv/output/snake.svg" alt="Snake animation" />
-</div>
-
 ###
