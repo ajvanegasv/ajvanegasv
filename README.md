@@ -1,5 +1,5 @@
 ![Header](https://github.com/ajvanegasv/ajvanegasv/blob/main/header.png)
-<h3 align="center">A passionate frontend developer from Colombia 🇨🇴</h3>
+<h3 align="center">A passionate software developer from Colombia 🇨🇴</h3>
 <p align="center">
 <a href="https://ajvanegasv.dev/" target="_blank">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" height="35" alt="instagram logo"  />
