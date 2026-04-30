@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate Software Developer from Colombia with 5+ years of experience building impactful solutions. Currently focused on NestJS API development and Cross-platform Mobile development with Kotlin. I am also exploring Revit plugin development and Game Development with Unity.
+Passionate Software Developer from Colombia with 5+ years of experience building impactful solutions. Currently focused on NestJS API development and Cross-platform Mobile development with Kotlin. I am also exploring Game Development with Unity.
 
 
 ## 🌐 Socials:
